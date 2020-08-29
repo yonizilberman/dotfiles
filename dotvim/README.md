@@ -1,9 +1,8 @@
 # dotvim
-======
-A framework for setting up vim.
+### A vim layout.
+
 
 ```bash
-vim ~/.vimrc
-
 # copy the code from the file dotvim.vim
+vim ~/.vimrc
 ```
