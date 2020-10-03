@@ -1,4 +1,4 @@
-# Set up development environment:
+# Setup development environment:
 ## Install brew ( https://brew.sh/ ):
 ```bash
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
