@@ -1,3 +1,5 @@
+# dotgit
+### A git completion.
 ```bash
 # Create the folder structure
 mkdir -p ~/.zsh

@@ -1,5 +1,5 @@
 # dotzsh
-### A zsh layout.
+### A zsh prompt layout & aliases.
 
 
 ```bash
