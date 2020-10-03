@@ -1,10 +1,9 @@
 # setup dev:
-
-### install brew ( https://brew.sh/ ):
+## install brew ( https://brew.sh/ ):
 ```bash
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
-install node / npm & git:
+## install node / npm & git:
 
 (installing nvm with brew [stackoverflow](https://stackoverflow.com/questions/28017374/what-is-the-suggested-way-to-install-brew-node-js-io-js-nvm-npm-on-os-x))
 ```shell
@@ -13,25 +12,35 @@ $ brew install node
 ```
 
 xcode needed or you can install the mac app or [git-osx-installer](https://sourceforge.net/projects/git-osx-installer/).
+```shell
+$ git --version
+```
+If don't get version run:
+```shell
+$ brew install git
+```
+to set [git user](https://sourabhbajaj.com/mac-setup/Git/README.html) & [ssh github](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
 
-Install APP (with brew):
+## Install APP (with brew):
 ```shell
 $ brew cask install iterm2
 $ brew cask install firefox
 $ brew cask install google-chrome
 $ brew cask install visual-studio-code
 ```
-### Web Browser Extensions (will when you login with your user):
-* AdBlock
+## Web Browser Extensions (will when you login with your user):
+* [AdBlock (chrome)](https://chrome.google.com/webstore/detail/adblock-—-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom?hl=en)
 * [uBlock](https://github.com/gorhill/uBlock)
 * [Privacy Badger](https://privacybadger.org/)
 * [OneTab](https://www.one-tab.com/)
-* JSONViewer
-* Stylus
-* Vue Devtools
-* React Devtools
+* [JSONViewer (chrome)](https://chrome.google.com/webstore/detail/json-viewer/aimiinbnnkboelefkjlenlgimcabobli?hl=en)
+* [Vue Devtools (chrome)](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
+* [React Devtools (chrome)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 * [greasyfork](https://greasyfork.org/en)
 ## help to take a break with [dejal](https://www.dejal.com/timeout/).
 
-### update vscode settings + extensions:
+## update vscode settings + extensions:
+* Add to the terminal the `code` command:
+    * In VS Code <kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> .
+    * In the prompt type `shell command` and <kbd>Return</kbd> .
 * will add.
