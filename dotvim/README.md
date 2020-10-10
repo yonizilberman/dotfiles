@@ -1,8 +1,7 @@
 # dotvim
-### A vim layout.
+## A vim layout.
 
-
-```bash
-# copy the code from the file dotvim.vim
-vim ~/.vimrc
+1. Copy paste the code from this file dotvim.vim
+```shell
+$ cp ~/development/dotfiles/dotvim/dotvim.vim ~/.vimrc
 ```

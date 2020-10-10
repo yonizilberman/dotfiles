@@ -1,8 +1,11 @@
 # dotzsh
-### A zsh prompt layout & aliases.
+## A zsh prompt layout & aliases.
 
-
-```bash
-# copy the code from the file dotzsh.vim
-vim ~/.zshrc
+1. Copy the code from the file dotzsh.vim (apple OS)
+```shell
+$ pbcopy < ~/development/dotfiles/dotzsh/dotzsh.zsh
+```
+2. Paste the clipboard to the `.zshrc` file
+```shell
+$ vim ~/.zshrc
 ```
