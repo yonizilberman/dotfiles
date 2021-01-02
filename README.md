@@ -45,6 +45,7 @@ $ brew install --cask visual-studio-code
 - <a href="https://github.com/gorhill/uBlock" target="_blank">uBlock</a>.
 - <a href="https://privacybadger.org/" target="_blank">Privacy Badger</a>.
 - <a href="https://www.one-tab.com/" target="_blank">OneTab</a>.
+- <a href="https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en" target="_blank">The Great Suspender (chrome)</a>.
 - <a href="https://chrome.google.com/webstore/detail/json-viewer/aimiinbnnkboelefkjlenlgimcabobli?hl=en" target="_blank">JSONViewer (chrome)</a>.
 - <a href="https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en" target="_blank">Vue Devtools (chrome)</a>.
 - <a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en" target="_blank">React Devtools (chrome)</a>.
