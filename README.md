@@ -21,7 +21,19 @@ xcode needed OR you can install the mac app or <a href="https://sourceforge.net/
 $ git --version
 ```
 
-If don't get version run:
+_A._ To fix this error:
+
+```shell
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+```
+
+You will need to install:
+
+```shell
+$ xcode-select --install
+```
+
+_B._ If don't get version run:
 
 ```shell
 $ brew install git
